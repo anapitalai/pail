@@ -1,11 +1,20 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Tasty Licks"
+title = "Pulum Anda Ltd"
 
 [params]
-  description = "An example website for restaurants built by [@eliwilliamson](https://github.com/eliwilliamson) using [Victor Hugo](https://github.com/netlify/victor-hugo)."
+  description = "Using [Victor Hugo] theme"
 
 [[menu.main]]
     name = "About"
     url  = "/about"
     weight = 1
+[[menu.main]]
+    name = "Properties"
+    url  = "/properties"
+    weight = 2
+[[menu.main]]
+    name = "Image Gallery"
+    url  = "/gallery"
+    weight = 3
+

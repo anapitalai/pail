@@ -1,5 +1,7 @@
 ---
 title: bar
-image: /img/gallery/photo5.jpg
+image: /img/gallery/out.jpg
+description: >- 
+  The bedroom, Papua Compuound Units
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: oyester
-image: /img/gallery/photo4.jpg
+image: /img/gallery/room.jpg
+description: >-
+  The bedroom, Papua Compuound Units
 ---
 

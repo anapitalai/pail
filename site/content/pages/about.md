@@ -4,11 +4,12 @@ title = "About"
 url = "/about"
 +++
 
-## Something about the restaurant goes here
+## About  Pulum Anda Investment Limited
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis placerat nulla, eget tempus arcu volutpat ut. Pellentesque ut ligula sit amet sapien mattis pretium. Nullam viverra, est tincidunt sagittis pretium, ligula orci tristique augue, ac feugiat libero ante ut orci. Sed dictum at arcu ac bibendum. Aenean purus libero, molestie sit amet iaculis quis, sodales et erat. Nulla auctor porta mi, id tristique orci malesuada quis. Proin commodo lacinia fringilla. In suscipit ligula a tristique consectetur. Mauris non tortor felis. Morbi nec ornare quam. Aenean ac felis porttitor, varius odio et, finibus purus. Duis at nulla rutrum, vestibulum nunc quis, interdum nunc. Morbi ac arcu eget elit blandit tincidunt. Cras velit arcu, dapibus id massa posuere, vestibulum semper orci. Aliquam ullamcorper ut justo non laoreet.
+Pulum Anda Investment Limited is a nationally owned company owned by Jim Tapako Investment and its concentration in on Commercial and Residential Properties around Lae city.
+This web app will be used to managed the properties keeping a record of who is occupying the property, the rental rate,location,street,allotment,id,chattle listing,building status and a tentants will be able to give feeback via the app to the PAIL if there needs to maintenance or somethings that needs to be addressed for the well being of the tenants.
 
 Sincerely,
-# Mr. Bojangles
+# Miss WPJ

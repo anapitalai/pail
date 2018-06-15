@@ -2,7 +2,7 @@
 
 <div class="content container {{ .Title }} {{ .Section | urlize }}">
   <h1>{{ .Section }}</h1>
-  {{ if eq .Section "food" }}
+  {{ if eq .Section "properties" }}
     {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
       <section>
         {{ if eq "categories" $taxonomyname }}
@@ -16,7 +16,7 @@
                 {{ range .Pages }}
                   <li>
                     <p><strong>{{ .Title }}:</strong> {{ .Params.description }}</p>
-                    <p>{{ .Params.price }}</p>
+                    <p>{{ .Params.rental }}</p>
                   </li>
                 {{ end }}
                 </ul>
@@ -52,8 +52,11 @@
   {{ else if eq .Section "gallery" }}
     <div class="gallery-carousel">
       {{ range where .Pages "Section" "gallery" }}
-        <div><img src="{{ .Params.image }}"/></div>
+        <div><img src="{{ .Params.image }}"/>
+        <h2><marquee>{{ .Params.description }}</marquee></h2>
+        </div>
       {{ end }}
+      
     </div>
     <div class="buttons">
       <button class="prev half-button">Prev</button>
